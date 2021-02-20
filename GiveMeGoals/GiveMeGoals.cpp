@@ -1,14 +1,6 @@
 #include "GiveMeGoals.h"
 #include "bakkesmod\wrappers\includes.h"
 
-/*
-
-    #TODO: Add command to remove score from other team
-        - Only remove a point if they have more than 0
-            - Choose a random player to remove score from (as long as they have more than 0 goals)
-
-*/
-
 BAKKESMOD_PLUGIN(GiveMeGoals, "Give yourself a goal", "1.0", PLUGINTYPE_FREEPLAY)
 
 void GiveMeGoals::onLoad()
