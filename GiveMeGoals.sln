@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GiveMeGoals", "GiveMeGoals\GiveMeGoals.vcxproj", "{6E3ED57C-CB24-43D1-9A2C-FF3EE69F0970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E3ED57C-CB24-43D1-9A2C-FF3EE69F0970}.Release|x64.ActiveCfg = Release|x64
+		{6E3ED57C-CB24-43D1-9A2C-FF3EE69F0970}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B553245-EEF2-422F-9EE9-86DAD0BE4F87}
+	EndGlobalSection
+EndGlobal
