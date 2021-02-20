@@ -9,4 +9,5 @@ public:
 	void onUnload() override;
 
     void AddGoalToMyScore();
+    void RemoveOpponentScore();
 };
